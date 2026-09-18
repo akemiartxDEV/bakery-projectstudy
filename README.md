@@ -28,3 +28,9 @@ This project follows a mobile-first approach and was primarily designed for smar
 ## Status
 
 Completed as a front-end study project.
+
+## Live Demo
+
+[View the project online](https://akemiartxDEV.github.io/bakery-projectstudy/)
+
+> This project was designed with a mobile-first approach and is best viewed on smartphone-sized screens.
